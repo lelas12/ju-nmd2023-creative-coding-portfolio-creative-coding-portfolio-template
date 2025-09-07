@@ -4,4 +4,22 @@
     "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   }
+,
+  {
+    "file": "experiments/sol.js",
+    "name": "Insperation by Sol LeWitt",
+    "description": "Its the first thing doing, and playing with the matematic thinking  gave me a cool shape, but at the start I got an inpo from Sol LeWitt"
+  }
+  , 
+  {
+    "file": "experiments/sol2.js",
+    "name": "Insperation by Sol LeWitt 2",
+    "description": " playing with the matematic thinking  gave me a cool shape, but at the start I got an inpo from Sol LeWitt"
+  }
+  ,
+  {
+    "file": "experiments/sol3.js",
+    "name": "Insperation by Sol LeWitt 3",
+    "description": "playing with the matematic thinking  gave me a cool shape, but at the start I got an inpo from Sol LeWitt"
+  }
 ]
