@@ -21,5 +21,15 @@
     "file": "experiments/sol3.js",
     "name": "Insperation by Sol LeWitt 3",
     "description": "playing with the matematic thinking  gave me a cool shape, but at the start I got an inpo from Sol LeWitt"
+  }  ,
+  {
+    "file": "experiments/ex4.js",
+    "name": "Insperation by Colin Reid",
+    "description": "Did a more simple art of one of Colin Reids art"
+  }  ,
+  {
+    "file": "experiments/ex5.js",
+    "name": "Insperation by Colin Reid",
+    "description": "Did a more simple art of one of Colin Reids art, version 2: Played with the color and leting it loop."
   }
 ]
