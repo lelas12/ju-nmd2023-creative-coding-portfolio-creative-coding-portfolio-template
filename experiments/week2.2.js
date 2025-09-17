@@ -22,7 +22,7 @@ function setup() {
 function draw() {
   background(20, 20, 30, 10); //skuggan
 
-  // Uppdatera flowfield med Perlin-noise
+  // Uppdatera flowfield med perlin-noise
   let yoff = 5;
   for (let y = 0; y < rows; y++) {
     let xoff = 0;
