@@ -4,7 +4,7 @@ let cols, rows;
 let resolution = 30;
 
 function setup() {
-  createCanvas(800, 800);
+    createCanvas(innerWidth, innerHeight);
   cols = floor(width / resolution);
   rows = floor(height / resolution);
 

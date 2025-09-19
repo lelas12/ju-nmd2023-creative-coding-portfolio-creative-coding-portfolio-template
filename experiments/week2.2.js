@@ -4,7 +4,7 @@ let cols, rows;
 let resolution = 30;
 
 function setup() {
-  createCanvas(800, 800);
+    createCanvas(innerWidth, innerHeight);
   cols = floor(width / resolution);
   rows = floor(height / resolution);
 
@@ -32,7 +32,7 @@ function draw() {
       flowfield[index] = p5.Vector.fromAngle(angle);
       xoff += 0.1;
     }
-    yoff += 0.1;
+    yoff += 50;
   }
 
   // Update the pic
