@@ -1,10 +1,5 @@
 [
-  {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
-  }
-,
+ 
   {
     "file": "experiments/sol.js",
     "name": "Insperation by Sol LeWitt",
@@ -31,5 +26,24 @@
     "file": "experiments/ex5.js",
     "name": "Insperation by Colin Reid",
     "description": "Did a more simple art of one of Colin Reids art, version 2: Played with the color and leting it loop."
+  }
+  ,
+  {
+    "file": "experiments/week2.js",
+    "name": "Insperation from ''https://www.linkedin.com/posts/uditagowdety_over-the-weekend-i-took-up-the-challenge-activity-7164948036136239104-xiy0/''",
+    "description": "Did something similar, With the help of p5.js, I created particles that move along random lines (using Perlin noise). I used vectors and a particle class to draw lines that slowly change color."
+ 
+  }
+  ,
+  {
+    "file": "experiments/week2.2.js",
+    "name": "Insperation from ''https://www.linkedin.com/posts/uditagowdety_over-the-weekend-i-took-up-the-challenge-activity-7164948036136239104-xiy0/''",
+    "description": "Did something similar, With the help of p5.js, I created particles that move along random lines (using Perlin noise). I used vectors and a particle class to draw lines that slowly change color."
+  }
+  ,
+  {
+    "file": "experiments/week2.3.js",
+    "name": "Insperation from ''https://www.linkedin.com/posts/uditagowdety_over-the-weekend-i-took-up-the-challenge-activity-7164948036136239104-xiy0/''",
+    "description": "Did something similar, With the help of p5.js, I created particles that move along random lines (using Perlin noise). I used vectors and a particle class to draw lines that slowly change color."
   }
 ]
